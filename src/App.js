@@ -35,7 +35,7 @@ export default class App {
 
 		// Faire afficher "Raté"
 
-		// Faire afficher "Raté, Rita"
+		// Faire afficher "Rita"
 
 		// Faire afficher "Raté, Rita"
 

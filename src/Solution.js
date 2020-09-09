@@ -37,7 +37,7 @@ export default class Solution {
 		console.log(num3);
 		// Faire afficher "Raté"
 		console.log(str1.slice(num3 + 1));
-		// Faire afficher "Raté, Rita"
+		// Faire afficher "Rita"
 		console.log(str1.slice(0, num3));
 		// Faire afficher "Raté, Rita"
 		console.log(str1.slice(num3 + 1) + ", " + str1.slice(0, num3));
