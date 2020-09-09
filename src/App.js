@@ -11,9 +11,9 @@ export default class App {
 		// Tous les affichages se font avec console.log
 		// Créer la variable str1 avec la valeur "Rita Raté"
 
-		// Créer la variable str2 avec la valeur "le petit chaperon rouge"
-
 		// Faire afficher "Rita Raté"
+
+		// Créer la variable str2 avec la valeur "le petit chaperon rouge"
 
 		// Faire afficher "Rita Raté et le petit chaperon rouge"
 
@@ -27,11 +27,15 @@ export default class App {
 
 		// Créer la variable num2 qui a comme valeur la position du mot "rouge" (faire afficher)
 
-		// Faire afficher le "18/9=2"
-
 		// Faire afficher "Le petit chaperon bleu"
 
-		// Créer la variable num3 avec comme valeur la position de l'espace dans str1
+		// Faire afficher "18/9=2"
+
+		// Créer la variable num3 avec comme valeur la position de l'espace dans str1 (faire afficher)
+
+		// Faire afficher "Raté"
+
+		// Faire afficher "Raté, Rita"
 
 		// Faire afficher "Raté, Rita"
 
